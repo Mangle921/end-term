@@ -1,0 +1,19 @@
+{
+  "name": "end-term",
+  "version": "1.0.0",
+  "description": "file browser",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mangle921/end-term.git"
+  },
+  "author": "Akhmed Otzhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mangle921/end-term/issues"
+  },
+  "homepage": "https://github.com/Mangle921/end-term#readme"
+}
